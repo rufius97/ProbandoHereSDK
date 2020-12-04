@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProbandoHereSDK</string>
+    <string name="error_establecer_comunicacion">Se ha producido un error al establecer la comunicacion</string>
+    <string name="atencion">Atención</string>
+    <string name="dx_atencion">Atención</string>
+    <string name="dx_cancelar">Cancelar</string>
+    <string name="dx_aceptar">Aceptar</string>
+    <string name="dx_barcode">BARCODE</string>
+    <string name="error">Error</string>
+</resources>
